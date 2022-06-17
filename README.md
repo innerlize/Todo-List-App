@@ -8,7 +8,7 @@ The app is very simple and all, but, it's very functional and responsive for all
 
 <br>
 
-# How did you make this app?
+# "How did you make this app?"
 
 I made this app thanks to some tools, such as:
 
@@ -36,7 +36,7 @@ I made this app thanks to some tools, such as:
 
 <br>
 
-# Can I take a look at your app?
+# "Can I take a look at your app?"
 
 Ho ho... Please, take a look!
 
