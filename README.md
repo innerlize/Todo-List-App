@@ -12,7 +12,7 @@ The app is very simple and all, but, it's very functional and responsive for all
 
 I made this app thanks to some tools, such as:
 
-<table>
+<table align='center'>
   <thead>
     <th>Technology</th>
     <th>Framework/Library</th>
