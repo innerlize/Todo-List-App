@@ -2,7 +2,7 @@
 
 This is one of my personal React projects where I built a Todo List App.
 
-The main objective of this app is to let the users add their own tasks in a list for remember what they has to do in the future. Also, they can later mark them as completed, in case they actualy did it, of course...
+The main objective of this app is to let the users add their own tasks in a list to remember what they have to do in the future. Also, they can later mark them as completed, in case they actualy did it, of course...
 
 The app is very simple and all, but, it's very functional and responsive for all devices, so why don't you go and take a look? ;D
 
