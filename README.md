@@ -36,7 +36,7 @@ I made this app thanks to some tools, such as:
 
 <br>
 
-## "Can I take a look at your app?"
+## "May I use your app?"
 
 Ho ho... Please, take a look!
 
