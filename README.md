@@ -36,6 +36,10 @@ I made this app thanks to some tools, such as:
       <td> - </td>
     </tr>
     <tr align='center'>
+      <td>npm</td>
+      <td> - </td>
+    </tr>
+    <tr align='center'>
       <td>Figma</td>
       <td> - </td>
     </tr>
