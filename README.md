@@ -31,6 +31,10 @@ I made this app thanks to some tools, such as:
       <td>JavaScript</td>
       <td>React</td>
     </tr>
+    <tr align='center'>
+      <td>Figma</td>
+      <td> - </td>
+    </tr>
   </tbody>
 </table>
 
