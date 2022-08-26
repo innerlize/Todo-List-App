@@ -21,7 +21,7 @@ I made this app thanks to some tools, such as:
   <tbody>
     <tr align='center'>
       <td>HTML</td>
-      <td>-</td>
+      <td> - </td>
     </tr>
     <tr align='center'>
       <td>CSS</td>
