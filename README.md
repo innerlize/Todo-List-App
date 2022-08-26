@@ -32,6 +32,10 @@ I made this app thanks to some tools, such as:
       <td>React</td>
     </tr>
     <tr align='center'>
+      <td>Git</td>
+      <td> - </td>
+    </tr>
+    <tr align='center'>
       <td>Figma</td>
       <td> - </td>
     </tr>
