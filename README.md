@@ -14,7 +14,7 @@ I made this app thanks to some tools, such as:
 
 <table align='center'>
   <thead>
-    <th>Technology</th>
+    <th>Technology/Software</th>
     <th>Framework/Library</th>
   </thead>
   
