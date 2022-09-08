@@ -1,6 +1,6 @@
 ## Introduction
 
-This is one of my personal React projects where I built a Todo List App.a
+This is one of my personal React projects where I built a Todo List App.
 
 The main objective of this app is to let the users add their own tasks in a list to remember what they have to do in the future. Also, they can later mark them as completed, in case they actualy did it, of course...
 
